@@ -1,4 +1,4 @@
-# AppCompatActivity-Template
+# AppCompatActivity-Template-AIDE
 AppCompatActivity-Template for AIDE
 
 ## Screen Shots
