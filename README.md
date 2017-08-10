@@ -1,5 +1,5 @@
 # AppCompatActivity-Template-AIDE
-Action Bar with menu for AIDE
+Action Bar with menu for AIDE step by step.
 
 ## Screen Shots
 
