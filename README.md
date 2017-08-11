@@ -1,7 +1,7 @@
 # AppCompatActivity-Template-AIDE
 Action Bar with menu for AIDE step by step.
 
-## Screen Shots
+## Screenshots
 
 ![](https://github.com/MrKhantee/AppCompatActivity-Template-AIDE/blob/master/screenshots/Screenshot_1.png)
 ![](https://github.com/MrKhantee/AppCompatActivity-Template-AIDE/blob/master/screenshots/Screenshot_1_1.jpg)
