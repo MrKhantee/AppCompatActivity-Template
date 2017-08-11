@@ -8,7 +8,7 @@ Action Bar with menu for AIDE step by step.
 ![](https://github.com/MrKhantee/AppCompatActivity-Template-AIDE/blob/master/screenshots/Screenshot_1_2.jpg)
 
 
-## Change to your pagkage
+## Change to your package
 
 ![](https://github.com/MrKhantee/AppCompatActivity-Template-AIDE/blob/master/screenshots/Screenshot_2.jpg)
 
